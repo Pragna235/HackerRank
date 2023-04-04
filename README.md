@@ -1,0 +1,2 @@
+# SmartInterviews_Algorithms_Assignment2_HackerRank
+Algorithms from Problem Solving Section of HackerRank
